@@ -150,16 +150,3 @@ The project implements some of nodejs [security techniques](https://docs.nestjs.
 - [Express Rate Limit](https://github.com/nfriedly/express-rate-limit): to protect your applications from brute-force attacks
   - In the main.ts you can set a limit of requests in a time window (default is 100 requests in 15 minutes for all endpoints, and 3 requests in a 1 hour for sign up endpoint)
 
-# Contributing
-If you want to contribute to this starter, consider:
-
-- Reporting bugs and errors
-- Improve the documentation
-- Creating new features and pull requests
-
-<a href="https://www.buymeacoffee.com/marcomelilli"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=marcomelilli&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-
-All contributions are welcome!
-
-# Copyright
-Licensed under the MIT license.
